@@ -1,13 +1,11 @@
-# Projeto
+![] (./img/preview.png)
+ Projeto
 * Galeria com JS
-
-![] ("./img/preview.png")
-
-# Tecnologias
+ Tecnologias
 * HTML
 * GIT
 * JS
 * CSS
-# Linkedin: https://www.linkedin.com/in/weslei-santos-8b1267224/ 
+* Linkedin: (https://www.linkedin.com/in/weslei-santos-8b1267224/)
 
 © 2025 | Weslei Santos
