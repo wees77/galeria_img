@@ -1,7 +1,7 @@
 ![](./img/preview.png)
-Projeto
+# Projeto
 * Galeria  com JS
-Tecnologias
+# Tecnologias
 * CSS
 * HTML
 * GIT
